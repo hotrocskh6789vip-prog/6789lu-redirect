@@ -1,1 +1,67 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>6789VIP</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background: #ffffff;
+      color: #1b4fd6;
+      text-align: center;
+    }
+    header {
+      padding: 40px 20px;
+      background: #1b4fd6;
+      color: #fff;
+      font-size: 32px;
+      font-weight: bold;
+    }
+    .hero {
+      padding: 60px 20px;
+    }
+    .hero h1 {
+      font-size: 42px;
+      margin-bottom: 20px;
+    }
+    .hero p {
+      font-size: 18px;
+      color: #333;
+      max-width: 600px;
+      margin: 0 auto 30px;
+    }
+    .cta-button {
+      display: inline-block;
+      background: #1b4fd6;
+      color: #fff;
+      padding: 14px 32px;
+      border-radius: 8px;
+      font-size: 20px;
+      text-decoration: none;
+      transition: 0.3s;
+    }
+    .cta-button:hover {
+      background: #163ea5;
+    }
+    footer {
+      margin-top: 60px;
+      padding: 20px;
+      font-size: 14px;
+      color: #666;
+    }
+  </style>
+</head>
+<body>
+  <header>6789VIP</header>
+  <section class="hero">
+    <h1>Trải Nghiệm Giải Trí Đỉnh Cao</h1>
+    <p>Nơi quy tụ các trò chơi hấp dẫn, giao diện hiện đại và trải nghiệm mượt mà. 
+    Đăng ký ngay để nhận ưu đãi thành viên mới!</p>
+    <a href="https://6789a6.site" class="cta-button">Vào Trang Chính</a>
+  </section>
+  <footer>© 2025 - 6789VIP. All rights reserved.</footer>
+</body>
+</html>
 
